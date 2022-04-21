@@ -107,7 +107,7 @@ section {
 }
 
 .skills .progress {
-  height: 20px;
+  height: 0.2em;
   background: #171b3c;
   border-radius: 20px;
   border: 1px solid #000;
